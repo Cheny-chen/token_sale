@@ -1,0 +1,23 @@
+# OS dependent files
+.DS_Store
+Thumbs.db
+
+# IDE dependent files
+.idea
+.vscode
+
+# Project dependent files
+/config.js
+/config.esm.js
+
+/.ig.*
+/._ig.*
+/.runtime
+/.kernel.bes
+
+# custom truffle-config.js setup
+.private-keys
+.mnemonic
+
+build
+node_modules
